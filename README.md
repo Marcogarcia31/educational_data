@@ -1,10 +1,11 @@
-# Project 1 : educational data analysis
+# Project : Educational data analysis
 
 
 
 ## Project overview
 
-* This project compares countries performance accross several educational-related indicators and produces a ranking with a scoring tool 
+* This project compares countries performance accross several educational-related indicators and produces a ranking with a scoring tool<p>&nbsp;</p>
+
 * It may be useful for the method it deploys and to understand how data visualization may be helpful for any BI project <p>&nbsp;</p>
 
 
