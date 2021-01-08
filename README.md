@@ -42,7 +42,7 @@
 * Scipy
 
 
-The **data** is stored as a zip file and should threfore be unzipped before reproducing code in the notebook<p>&nbsp;</p>
+The **data** is stored in the repository as a zip file and should threfore be unzipped before reproducing code in the notebook<p>&nbsp;</p>
 
 
 ## Detailed workflow<p>&nbsp;</p>
