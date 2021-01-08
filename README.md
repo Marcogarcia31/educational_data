@@ -1,22 +1,12 @@
-<<<<<<< HEAD
 # Project : educational data analysis
-=======
-# Project : Educational data analysis
->>>>>>> 285bb3f20db9209eeb24115343b22d1ff1e53954
 
 
 
 ## Project overview
 
-<<<<<<< HEAD
-* This project compares **countries** performance accross several educational-related **indicators** and produces a **ranking** with a scoring tool
+* This project compares **countries** performance accross several educational-related **indicators** and produces a **ranking** with a **scoring** tool
 
 * It may be useful for the method it deploys and to understand how **data visualization** may be helpful for any BI project <p>&nbsp;</p>
-=======
-* This project compares countries performance accross several educational-related indicators and produces a ranking with a scoring tool
-
-* It may be useful for the method it deploys and to understand how data visualization may be helpful for any BI project <p>&nbsp;</p>
->>>>>>> 285bb3f20db9209eeb24115343b22d1ff1e53954
 
 
 
